@@ -1,0 +1,3 @@
+crit_number,index,radius,density,wallpaper_group,point_group,rattler_number,coords_1,coords_2,coords_3,coords_4,contact_graph_1
+1,0,0.288675134594813,0.604599788078073,p6m,D6,0,0,0.577337567297407,0.5,0.288662432702593,3
+2,1,0.25,0.453449841058554,pmm,D2,0,-0.25,0,0.25,0,2
