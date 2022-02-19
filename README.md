@@ -26,6 +26,7 @@ For example, to plot the second critical point for seven disks:
 ## **References**
 Research into the topology of the configuration space of hard disks is ongoing, but the references below provide some context for this project.
 
+- O. Ericok, K. Ganesan, J. Mason, [Configuration spaces of hard spheres](https://doi.org/10.1103/PhysRevE.104.055304), Phys. Rev. E 104, 055304 (2021).
 - O. Ericok, J. Mason, [Quotient Maps and Configuration Spaces of Hard Disks](https://arxiv.org/abs/2101.00780), arXiv preprint arXiv:2101.00780 (2021).
 - G. Carlsson, J. Gorham, M. Kahle, J. Mason, [Computational topology for configuration spaces of hard disks](https://doi.org/10.1103/PhysRevE.85.011303), Phys. Rev. E 85 (2012): 011303.
 - Y. Baryshnikov, P. Bubenik, M. Kahle, [Min-type Morse theory for configuration spaces of hard spheres](https://doi.org/10.1093/imrn/rnt012), International Mathematics Research Notices 2014.9 (2014): 2577–2592.
